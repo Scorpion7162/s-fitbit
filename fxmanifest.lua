@@ -6,8 +6,8 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-server_scripts { 
-   'server.lua',
+client_scripts { 
+   'main.lua',
 }
  client_scripts {
     "@qbx_core/modules/playerdata.lua",
