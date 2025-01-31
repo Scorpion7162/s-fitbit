@@ -7,7 +7,7 @@ game 'gta5'
 lua54 'yes'
 
 client_scripts { 
-   'main.lua',
+   'client.lua',
 }
  client_scripts {
     "@qbx_core/modules/playerdata.lua",
