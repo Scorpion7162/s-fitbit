@@ -1,4 +1,4 @@
-author 'Scorpion'
+author 'Scorpion & xViperAG'
 description 'Fitbit for FiveM by Scorpion for qbx_core'
 version '1.0.0'
 
